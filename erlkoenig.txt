@@ -20,7 +20,16 @@ Was Erlenkönig mir leise verspricht?
 Sei ruhig, bleibe ruhig, mein Kind
 In dürren Blättern säuselt der Wind.
 
+<<<<<<< HEAD
 Dem Vater grauset’s; er reitet geschwind,
 Er hält in Armen das ächzende Kind,
 Erreicht den Hof mit Mühe und Not
 In seinen Armen das Kind war tot.
+=======
+Ich liebe dich, mich reizt deine schöne Gestalt
+Und bist du nicht willig, so brauch’ ich Gewalt.
+Mein Vater, mein Vater, jetzt faßt er mich an!
+Erlkönig hat mir ein Leids getan!
+
+
+>>>>>>> master
